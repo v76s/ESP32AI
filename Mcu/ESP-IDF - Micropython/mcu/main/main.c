@@ -15,7 +15,7 @@
 #include "esp_netif.h"
 
 #define WIFI_SSID "SARP"
-#define WIFI_PASS "Sarposky2011"
+#define WIFI_PASS "XXXXXXXXXXX"
 #define SERVER_IP "192.168.1.193"
 #define SERVER_PORT 5000
 
